@@ -13,3 +13,6 @@ Tech Stack
 Flutter: Utilized for building the cross-platform app.
 Dart: Programming language used for Flutter development.
 News API: The application fetches news articles from a public news API.
+
+
+![Screenshot of News App](images/)
